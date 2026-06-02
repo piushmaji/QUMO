@@ -48,3 +48,6 @@ Thumbs.db
 # Local Documentation
 Important MD files/
 
+# Node Version Managers
+.node-version
+.nvmrc
